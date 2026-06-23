@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AbhinavSingh0124/leet/tree/master/0014-longest-common-prefix) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## String
 |  |
 | ------- |
@@ -15,4 +16,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AbhinavSingh0124/leet/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+## Greedy
+|  |
+| ------- |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+## Sorting
+|  |
+| ------- |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 <!---LeetCode Topics End-->
