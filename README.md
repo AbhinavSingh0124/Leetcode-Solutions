@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/AbhinavSingh0124/leet/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
