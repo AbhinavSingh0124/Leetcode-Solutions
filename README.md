@@ -41,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AbhinavSingh0124/leet/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
