@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AbhinavSingh0124/leet/tree/master/0014-longest-common-prefix) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AbhinavSingh0124/leet/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AbhinavSingh0124/leet/tree/master/0001-two-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AbhinavSingh0124/leet/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -55,14 +57,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AbhinavSingh0124/leet/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AbhinavSingh0124/leet/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AbhinavSingh0124/leet/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
@@ -71,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AbhinavSingh0124/leet/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
