@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AbhinavSingh0124/leet/tree/master/0014-longest-common-prefix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AbhinavSingh0124/leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhinavSingh0124/leet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AbhinavSingh0124/leet/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AbhinavSingh0124/leet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AbhinavSingh0124/leet/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -35,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AbhinavSingh0124/leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AbhinavSingh0124/leet/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AbhinavSingh0124/leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AbhinavSingh0124/leet/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Linked List
 |  |
