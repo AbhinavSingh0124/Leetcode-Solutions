@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AbhinavSingh0124/leet/tree/master/0009-palindrome-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
