@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/AbhinavSingh0124/leet/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/AbhinavSingh0124/leet/tree/master/0014-longest-common-prefix) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhinavSingh0124/leet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhinavSingh0124/leet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/AbhinavSingh0124/leet/tree/master/0010-regular-expression-matching) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
 |  |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhinavSingh0124/leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/AbhinavSingh0124/leet/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
