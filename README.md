@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AbhinavSingh0124/leet/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/AbhinavSingh0124/leet/tree/master/0014-longest-common-prefix) |
+| [0219-contains-duplicate-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0219-contains-duplicate-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AbhinavSingh0124/leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhinavSingh0124/leet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AbhinavSingh0124/leet/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AbhinavSingh0124/leet/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhinavSingh0124/leet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AbhinavSingh0124/leet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AbhinavSingh0124/leet/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhinavSingh0124/leet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Breadth-First Search
 |  |
