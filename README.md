@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AbhinavSingh0124/leet/tree/master/0021-merge-two-sorted-lists) |
 | [0328-odd-even-linked-list](https://github.com/AbhinavSingh0124/leet/tree/master/0328-odd-even-linked-list) |
 ## Hash Table
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AbhinavSingh0124/leet/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/AbhinavSingh0124/leet/tree/master/0021-merge-two-sorted-lists) |
 ## Topological Sort
 |  |
 | ------- |
