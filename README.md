@@ -264,4 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/AbhinavSingh0124/leet/tree/master/3312-sorted-gcd-pair-queries) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/AbhinavSingh0124/leet/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/AbhinavSingh0124/leet/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
