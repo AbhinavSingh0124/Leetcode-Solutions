@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AbhinavSingh0124/leet/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/AbhinavSingh0124/leet/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AbhinavSingh0124/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0219-contains-duplicate-ii) |
 | [0952-largest-component-size-by-common-factor](https://github.com/AbhinavSingh0124/leet/tree/master/0952-largest-component-size-by-common-factor) |
 | [1288-remove-covered-intervals](https://github.com/AbhinavSingh0124/leet/tree/master/1288-remove-covered-intervals) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AbhinavSingh0124/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhinavSingh0124/leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
