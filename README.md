@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AbhinavSingh0124/leet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AbhinavSingh0124/leet/tree/master/0014-longest-common-prefix) |
 | [0214-shortest-palindrome](https://github.com/AbhinavSingh0124/leet/tree/master/0214-shortest-palindrome) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhinavSingh0124/leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhinavSingh0124/leet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhinavSingh0124/leet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhinavSingh0124/leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AbhinavSingh0124/leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AbhinavSingh0124/leet/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -277,4 +279,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2236-root-equals-sum-of-children](https://github.com/AbhinavSingh0124/leet/tree/master/2236-root-equals-sum-of-children) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhinavSingh0124/leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhinavSingh0124/leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
