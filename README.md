@@ -291,12 +291,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/AbhinavSingh0124/leet/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AbhinavSingh0124/leet/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AbhinavSingh0124/leet/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/AbhinavSingh0124/leet/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/AbhinavSingh0124/leet/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AbhinavSingh0124/leet/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AbhinavSingh0124/leet/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/AbhinavSingh0124/leet/tree/master/2236-root-equals-sum-of-children) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/AbhinavSingh0124/leet/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AbhinavSingh0124/leet/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AbhinavSingh0124/leet/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
