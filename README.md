@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AbhinavSingh0124/leet/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhinavSingh0124/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0219-contains-duplicate-ii) |
+| [0307-range-sum-query-mutable](https://github.com/AbhinavSingh0124/leet/tree/master/0307-range-sum-query-mutable) |
 | [0952-largest-component-size-by-common-factor](https://github.com/AbhinavSingh0124/leet/tree/master/0952-largest-component-size-by-common-factor) |
 | [1260-shift-2d-grid](https://github.com/AbhinavSingh0124/leet/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/AbhinavSingh0124/leet/tree/master/1288-remove-covered-intervals) |
@@ -139,11 +140,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/AbhinavSingh0124/leet/tree/master/0307-range-sum-query-mutable) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AbhinavSingh0124/leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/AbhinavSingh0124/leet/tree/master/0307-range-sum-query-mutable) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AbhinavSingh0124/leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AbhinavSingh0124/leet/tree/master/0146-lru-cache) |
+| [0307-range-sum-query-mutable](https://github.com/AbhinavSingh0124/leet/tree/master/0307-range-sum-query-mutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -319,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/AbhinavSingh0124/leet/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AbhinavSingh0124/leet/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AbhinavSingh0124/leet/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/AbhinavSingh0124/leet/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
