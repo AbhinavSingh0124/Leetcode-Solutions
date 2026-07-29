@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhinavSingh0124/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0219-contains-duplicate-ii) |
 | [0307-range-sum-query-mutable](https://github.com/AbhinavSingh0124/leet/tree/master/0307-range-sum-query-mutable) |
+| [0731-my-calendar-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0731-my-calendar-ii) |
 | [0952-largest-component-size-by-common-factor](https://github.com/AbhinavSingh0124/leet/tree/master/0952-largest-component-size-by-common-factor) |
 | [1260-shift-2d-grid](https://github.com/AbhinavSingh0124/leet/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/AbhinavSingh0124/leet/tree/master/1288-remove-covered-intervals) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0731-my-calendar-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhinavSingh0124/leet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AbhinavSingh0124/leet/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AbhinavSingh0124/leet/tree/master/3312-sorted-gcd-pair-queries) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/AbhinavSingh0124/leet/tree/master/0307-range-sum-query-mutable) |
+| [0731-my-calendar-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0731-my-calendar-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AbhinavSingh0124/leet/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AbhinavSingh0124/leet/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0731-my-calendar-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AbhinavSingh0124/leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AbhinavSingh0124/leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/AbhinavSingh0124/leet/tree/master/0146-lru-cache) |
 | [0307-range-sum-query-mutable](https://github.com/AbhinavSingh0124/leet/tree/master/0307-range-sum-query-mutable) |
+| [0731-my-calendar-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0731-my-calendar-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -345,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AbhinavSingh0124/leet/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
