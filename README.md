@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhinavSingh0124/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0219-contains-duplicate-ii) |
 | [0307-range-sum-query-mutable](https://github.com/AbhinavSingh0124/leet/tree/master/0307-range-sum-query-mutable) |
+| [0720-longest-word-in-dictionary](https://github.com/AbhinavSingh0124/leet/tree/master/0720-longest-word-in-dictionary) |
 | [0731-my-calendar-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0731-my-calendar-ii) |
 | [0952-largest-component-size-by-common-factor](https://github.com/AbhinavSingh0124/leet/tree/master/0952-largest-component-size-by-common-factor) |
 | [1260-shift-2d-grid](https://github.com/AbhinavSingh0124/leet/tree/master/1260-shift-2d-grid) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AbhinavSingh0124/leet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AbhinavSingh0124/leet/tree/master/0014-longest-common-prefix) |
 | [0214-shortest-palindrome](https://github.com/AbhinavSingh0124/leet/tree/master/0214-shortest-palindrome) |
+| [0720-longest-word-in-dictionary](https://github.com/AbhinavSingh0124/leet/tree/master/0720-longest-word-in-dictionary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhinavSingh0124/leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhinavSingh0124/leet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhinavSingh0124/leet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AbhinavSingh0124/leet/tree/master/0014-longest-common-prefix) |
+| [0720-longest-word-in-dictionary](https://github.com/AbhinavSingh0124/leet/tree/master/0720-longest-word-in-dictionary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0720-longest-word-in-dictionary](https://github.com/AbhinavSingh0124/leet/tree/master/0720-longest-word-in-dictionary) |
 | [1288-remove-covered-intervals](https://github.com/AbhinavSingh0124/leet/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AbhinavSingh0124/leet/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhinavSingh0124/leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AbhinavSingh0124/leet/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/AbhinavSingh0124/leet/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0219-contains-duplicate-ii) |
+| [0720-longest-word-in-dictionary](https://github.com/AbhinavSingh0124/leet/tree/master/0720-longest-word-in-dictionary) |
 | [0952-largest-component-size-by-common-factor](https://github.com/AbhinavSingh0124/leet/tree/master/0952-largest-component-size-by-common-factor) |
 | [1331-rank-transform-of-an-array](https://github.com/AbhinavSingh0124/leet/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhinavSingh0124/leet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
