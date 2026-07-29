@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/AbhinavSingh0124/leet/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/AbhinavSingh0124/leet/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhinavSingh0124/leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/AbhinavSingh0124/leet/tree/master/1584-min-cost-to-connect-all-points) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AbhinavSingh0124/leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhinavSingh0124/leet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhinavSingh0124/leet/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/AbhinavSingh0124/leet/tree/master/0952-largest-component-size-by-common-factor) |
+| [1584-min-cost-to-connect-all-points](https://github.com/AbhinavSingh0124/leet/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbhinavSingh0124/leet/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbhinavSingh0124/leet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhinavSingh0124/leet/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/AbhinavSingh0124/leet/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AbhinavSingh0124/leet/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1584-min-cost-to-connect-all-points](https://github.com/AbhinavSingh0124/leet/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbhinavSingh0124/leet/tree/master/1971-find-if-path-exists-in-graph) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/AbhinavSingh0124/leet/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbhinavSingh0124/leet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -360,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0731-my-calendar-ii) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AbhinavSingh0124/leet/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
