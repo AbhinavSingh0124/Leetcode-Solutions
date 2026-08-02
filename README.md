@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AbhinavSingh0124/leet/tree/master/0486-predict-the-winner) |
 | [0720-longest-word-in-dictionary](https://github.com/AbhinavSingh0124/leet/tree/master/0720-longest-word-in-dictionary) |
 | [0731-my-calendar-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0731-my-calendar-ii) |
+| [0877-stone-game](https://github.com/AbhinavSingh0124/leet/tree/master/0877-stone-game) |
 | [0952-largest-component-size-by-common-factor](https://github.com/AbhinavSingh0124/leet/tree/master/0952-largest-component-size-by-common-factor) |
 | [1260-shift-2d-grid](https://github.com/AbhinavSingh0124/leet/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/AbhinavSingh0124/leet/tree/master/1288-remove-covered-intervals) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AbhinavSingh0124/leet/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AbhinavSingh0124/leet/tree/master/0013-roman-to-integer) |
 | [0486-predict-the-winner](https://github.com/AbhinavSingh0124/leet/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AbhinavSingh0124/leet/tree/master/0877-stone-game) |
 | [0952-largest-component-size-by-common-factor](https://github.com/AbhinavSingh0124/leet/tree/master/0952-largest-component-size-by-common-factor) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhinavSingh0124/leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbhinavSingh0124/leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AbhinavSingh0124/leet/tree/master/0010-regular-expression-matching) |
 | [0486-predict-the-winner](https://github.com/AbhinavSingh0124/leet/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AbhinavSingh0124/leet/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/AbhinavSingh0124/leet/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AbhinavSingh0124/leet/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhinavSingh0124/leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -383,4 +386,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AbhinavSingh0124/leet/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AbhinavSingh0124/leet/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
