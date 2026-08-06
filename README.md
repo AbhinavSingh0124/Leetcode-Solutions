@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AbhinavSingh0124/leet/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/AbhinavSingh0124/leet/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhinavSingh0124/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0135-candy](https://github.com/AbhinavSingh0124/leet/tree/master/0135-candy) |
 | [0219-contains-duplicate-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0219-contains-duplicate-ii) |
 | [0307-range-sum-query-mutable](https://github.com/AbhinavSingh0124/leet/tree/master/0307-range-sum-query-mutable) |
 | [0486-predict-the-winner](https://github.com/AbhinavSingh0124/leet/tree/master/0486-predict-the-winner) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AbhinavSingh0124/leet/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/AbhinavSingh0124/leet/tree/master/0135-candy) |
 | [0860-lemonade-change](https://github.com/AbhinavSingh0124/leet/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhinavSingh0124/leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AbhinavSingh0124/leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
