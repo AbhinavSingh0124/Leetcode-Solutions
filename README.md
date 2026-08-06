@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0219-contains-duplicate-ii) |
 | [0307-range-sum-query-mutable](https://github.com/AbhinavSingh0124/leet/tree/master/0307-range-sum-query-mutable) |
 | [0486-predict-the-winner](https://github.com/AbhinavSingh0124/leet/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/AbhinavSingh0124/leet/tree/master/0494-target-sum) |
 | [0720-longest-word-in-dictionary](https://github.com/AbhinavSingh0124/leet/tree/master/0720-longest-word-in-dictionary) |
 | [0731-my-calendar-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0731-my-calendar-ii) |
 | [0860-lemonade-change](https://github.com/AbhinavSingh0124/leet/tree/master/0860-lemonade-change) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/AbhinavSingh0124/leet/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/AbhinavSingh0124/leet/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/AbhinavSingh0124/leet/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/AbhinavSingh0124/leet/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/AbhinavSingh0124/leet/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/AbhinavSingh0124/leet/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AbhinavSingh0124/leet/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/AbhinavSingh0124/leet/tree/master/0077-combinations) |
+| [0494-target-sum](https://github.com/AbhinavSingh0124/leet/tree/master/0494-target-sum) |
 ## Number Theory
 |  |
 | ------- |
@@ -420,4 +423,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AbhinavSingh0124/leet/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/AbhinavSingh0124/leet/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/AbhinavSingh0124/leet/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
