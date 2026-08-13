@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhinavSingh0124/leet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhinavSingh0124/leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AbhinavSingh0124/leet/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AbhinavSingh0124/leet/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhinavSingh0124/leet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AbhinavSingh0124/leet/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AbhinavSingh0124/leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhinavSingh0124/leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhinavSingh0124/leet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhinavSingh0124/leet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AbhinavSingh0124/leet/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbhinavSingh0124/leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbhinavSingh0124/leet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/AbhinavSingh0124/leet/tree/master/0307-range-sum-query-mutable) |
 | [0731-my-calendar-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0731-my-calendar-ii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AbhinavSingh0124/leet/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AbhinavSingh0124/leet/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AbhinavSingh0124/leet/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AbhinavSingh0124/leet/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0731-my-calendar-ii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AbhinavSingh0124/leet/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
