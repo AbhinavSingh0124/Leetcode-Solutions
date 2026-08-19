@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AbhinavSingh0124/leet/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/AbhinavSingh0124/leet/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhinavSingh0124/leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/AbhinavSingh0124/leet/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/AbhinavSingh0124/leet/tree/master/0146-lru-cache) |
 | [0307-range-sum-query-mutable](https://github.com/AbhinavSingh0124/leet/tree/master/0307-range-sum-query-mutable) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AbhinavSingh0124/leet/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0731-my-calendar-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0731-my-calendar-ii) |
 ## Doubly-Linked List
 |  |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/AbhinavSingh0124/leet/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AbhinavSingh0124/leet/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AbhinavSingh0124/leet/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AbhinavSingh0124/leet/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2236-root-equals-sum-of-children](https://github.com/AbhinavSingh0124/leet/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/AbhinavSingh0124/leet/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AbhinavSingh0124/leet/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AbhinavSingh0124/leet/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AbhinavSingh0124/leet/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2236-root-equals-sum-of-children](https://github.com/AbhinavSingh0124/leet/tree/master/2236-root-equals-sum-of-children) |
 ## Stack
 |  |
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/AbhinavSingh0124/leet/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AbhinavSingh0124/leet/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AbhinavSingh0124/leet/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AbhinavSingh0124/leet/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -493,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AbhinavSingh0124/leet/tree/master/1510-stone-game-iv) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AbhinavSingh0124/leet/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
