@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/AbhinavSingh0124/leet/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0731-my-calendar-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0731-my-calendar-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhinavSingh0124/leet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AbhinavSingh0124/leet/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AbhinavSingh0124/leet/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/AbhinavSingh0124/leet/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0219-contains-duplicate-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/AbhinavSingh0124/leet/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0720-longest-word-in-dictionary](https://github.com/AbhinavSingh0124/leet/tree/master/0720-longest-word-in-dictionary) |
 | [0952-largest-component-size-by-common-factor](https://github.com/AbhinavSingh0124/leet/tree/master/0952-largest-component-size-by-common-factor) |
 | [1331-rank-transform-of-an-array](https://github.com/AbhinavSingh0124/leet/tree/master/1331-rank-transform-of-an-array) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/AbhinavSingh0124/leet/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0952-largest-component-size-by-common-factor](https://github.com/AbhinavSingh0124/leet/tree/master/0952-largest-component-size-by-common-factor) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AbhinavSingh0124/leet/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbhinavSingh0124/leet/tree/master/1971-find-if-path-exists-in-graph) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/AbhinavSingh0124/leet/tree/master/0146-lru-cache) |
 | [0307-range-sum-query-mutable](https://github.com/AbhinavSingh0124/leet/tree/master/0307-range-sum-query-mutable) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/AbhinavSingh0124/leet/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AbhinavSingh0124/leet/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0731-my-calendar-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0731-my-calendar-ii) |
 | [1032-stream-of-characters](https://github.com/AbhinavSingh0124/leet/tree/master/1032-stream-of-characters) |
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/AbhinavSingh0124/leet/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0731-my-calendar-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0731-my-calendar-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AbhinavSingh0124/leet/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Minimum Spanning Tree
@@ -505,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/AbhinavSingh0124/leet/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AbhinavSingh0124/leet/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1032-stream-of-characters](https://github.com/AbhinavSingh0124/leet/tree/master/1032-stream-of-characters) |
 ## Aho–Corasick Algorithm
