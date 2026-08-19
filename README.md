@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/AbhinavSingh0124/leet/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/AbhinavSingh0124/leet/tree/master/0877-stone-game) |
 | [0952-largest-component-size-by-common-factor](https://github.com/AbhinavSingh0124/leet/tree/master/0952-largest-component-size-by-common-factor) |
+| [1032-stream-of-characters](https://github.com/AbhinavSingh0124/leet/tree/master/1032-stream-of-characters) |
 | [1140-stone-game-ii](https://github.com/AbhinavSingh0124/leet/tree/master/1140-stone-game-ii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/AbhinavSingh0124/leet/tree/master/1191-k-concatenation-maximum-sum) |
 | [1260-shift-2d-grid](https://github.com/AbhinavSingh0124/leet/tree/master/1260-shift-2d-grid) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AbhinavSingh0124/leet/tree/master/0014-longest-common-prefix) |
 | [0214-shortest-palindrome](https://github.com/AbhinavSingh0124/leet/tree/master/0214-shortest-palindrome) |
 | [0720-longest-word-in-dictionary](https://github.com/AbhinavSingh0124/leet/tree/master/0720-longest-word-in-dictionary) |
+| [1032-stream-of-characters](https://github.com/AbhinavSingh0124/leet/tree/master/1032-stream-of-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhinavSingh0124/leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhinavSingh0124/leet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhinavSingh0124/leet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AbhinavSingh0124/leet/tree/master/0014-longest-common-prefix) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/AbhinavSingh0124/leet/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0720-longest-word-in-dictionary](https://github.com/AbhinavSingh0124/leet/tree/master/0720-longest-word-in-dictionary) |
+| [1032-stream-of-characters](https://github.com/AbhinavSingh0124/leet/tree/master/1032-stream-of-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/AbhinavSingh0124/leet/tree/master/0307-range-sum-query-mutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AbhinavSingh0124/leet/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0731-my-calendar-ii](https://github.com/AbhinavSingh0124/leet/tree/master/0731-my-calendar-ii) |
+| [1032-stream-of-characters](https://github.com/AbhinavSingh0124/leet/tree/master/1032-stream-of-characters) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -502,4 +506,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AbhinavSingh0124/leet/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1032-stream-of-characters](https://github.com/AbhinavSingh0124/leet/tree/master/1032-stream-of-characters) |
+## Aho–Corasick Algorithm
+|  |
+| ------- |
+| [1032-stream-of-characters](https://github.com/AbhinavSingh0124/leet/tree/master/1032-stream-of-characters) |
 <!---LeetCode Topics End-->
